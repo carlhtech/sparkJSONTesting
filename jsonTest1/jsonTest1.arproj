@@ -12,6 +12,44 @@
       "modelName": "generic_m_l_models_model"
     },
     {
+      "children": [
+        {
+          "alphaPremultiplicationMode": 2,
+          "assetLocator": "textures/arsenal_team.jpg",
+          "children": [
+            {
+              "assetDataHash": "919f60e200ae531fe0215be4b592a31f",
+              "colorCount": 157900,
+              "detectedAlphaChannel": 0,
+              "detectedOriginalFormat": 1,
+              "entropyOfDistribution": 15.519401031841857,
+              "identifier": "data_texture_metadata_model:76945-c0cf5540-8238-4429-9f89-c05840411206",
+              "modelName": "data_texture_metadata_model",
+              "name": "data_texture_metadata_model0",
+              "pixelsHigh": 576,
+              "pixelsWide": 1024
+            }
+          ],
+          "colorEncoding": 0,
+          "compressionQuality": 0,
+          "coordMapping": 0,
+          "excludeDuringExport": false,
+          "excludeFromPackage": false,
+          "filter": 1,
+          "height": 576,
+          "identifier": "texture:76947-c0cf5540-8238-4429-9f89-c05840411206",
+          "importIssues": {},
+          "isExternalAsset": true,
+          "modelName": "texture",
+          "name": "arsenal_team",
+          "smartQuality": 100,
+          "smartTextureTargetSizeLimit": 4,
+          "targetSize": 4,
+          "uWrapMode": 0,
+          "vWrapMode": 0,
+          "width": 1024
+        }
+      ],
       "identifier": "textures:76528-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
       "modelName": "textures"
     },
@@ -766,7 +804,8 @@
   "objects": [
     {
       "categoriesOrder": [
-        9
+        9,
+        2
       ],
       "identifier": "assets_config_model:76645-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
       "modelName": "assets_config_model"
