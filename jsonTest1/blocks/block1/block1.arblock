@@ -4,27 +4,27 @@
   "cameraNear": 0.009999999776482582,
   "children": [
     {
-      "identifier": "fonts:76524-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "fonts:76753-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "fonts"
     },
     {
-      "identifier": "generic_m_l_models_model:76526-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "generic_m_l_models_model:76755-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "generic_m_l_models_model"
     },
     {
-      "identifier": "textures:76528-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "textures:76757-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "textures"
     },
     {
-      "identifier": "materials:76530-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "materials:76759-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "materials"
     },
     {
-      "identifier": "prefabs:76532-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "prefabs:76761-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "prefabs"
     },
     {
-      "identifier": "3_d_objects_model:76534-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "3_d_objects_model:76763-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "3_d_objects_model"
     },
     {
@@ -68,9 +68,9 @@
                       "cameraVisibility": 3,
                       "color": 4294967295,
                       "hidden": false,
-                      "identifier": "ambient_light_source_model:76610-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+                      "identifier": "ambient_light_source_model:76843-c0cf5540-8238-4429-9f89-c05840411206",
                       "intensity": 0.20000000298023224,
-                      "layerIdentifier": "layer:76606-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+                      "layerIdentifier": "layer:76841-c0cf5540-8238-4429-9f89-c05840411206",
                       "modelName": "ambient_light_source_model",
                       "name": "ambientLight0",
                       "outputVisibility": 3,
@@ -97,9 +97,9 @@
                       "castShadow": false,
                       "color": 4294967295,
                       "hidden": false,
-                      "identifier": "directional_light_source_model:76612-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+                      "identifier": "directional_light_source_model:76845-c0cf5540-8238-4429-9f89-c05840411206",
                       "intensity": 0.800000011920929,
-                      "layerIdentifier": "layer:76606-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+                      "layerIdentifier": "layer:76841-c0cf5540-8238-4429-9f89-c05840411206",
                       "modelName": "directional_light_source_model",
                       "name": "directionalLight0",
                       "outputVisibility": 3,
@@ -124,8 +124,7 @@
                     }
                   ],
                   "hidden": false,
-                  "identifier": "focalDistance:76602-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
-                  "layerIdentifier": "layer:76606-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+                  "identifier": "focalDistance:76831-c0cf5540-8238-4429-9f89-c05840411206",
                   "modelName": "focalDistance",
                   "name": "Focal Distance",
                   "outputVisibility": 3,
@@ -144,8 +143,7 @@
                 }
               ],
               "hidden": false,
-              "identifier": "camera:76600-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
-              "layerIdentifier": "layer:76606-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+              "identifier": "camera:76829-c0cf5540-8238-4429-9f89-c05840411206",
               "modelName": "camera",
               "name": "Camera",
               "outputVisibility": 3,
@@ -162,42 +160,54 @@
                 "y": 0,
                 "z": 0
               },
-              "updateSource": 0
-            },
-            {
-              "animationMask": {
-                "position": false,
-                "rotation": false,
-                "scale": false
-              },
-              "cameraVisibility": 3,
-              "disabled": false,
-              "hidden": false,
-              "identifier": "microphone_model:76604-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
-              "layerIdentifier": "layer:76606-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
-              "modelName": "microphone_model",
-              "name": "Microphone",
-              "outputVisibility": 3,
-              "previewAudioSource": 0,
-              "tags": [],
-              "transform": {
-                "rx": 0,
-                "ry": 0,
-                "rz": 0,
-                "sx": 1,
-                "sy": 1,
-                "sz": 1,
-                "x": 0,
-                "y": 0,
-                "z": 0
-              }
+              "updateSource": 2
             }
           ],
           "hidden": false,
-          "identifier": "device:76598-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
-          "layerIdentifier": "layer:76606-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+          "identifier": "device:76827-c0cf5540-8238-4429-9f89-c05840411206",
           "modelName": "device",
           "name": "Device",
+          "outputVisibility": 3,
+          "tags": [],
+          "transform": {
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "sx": 1,
+            "sy": 1,
+            "sz": 1,
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        {
+          "animationMask": {
+            "position": false,
+            "rotation": false,
+            "scale": false
+          },
+          "cameraVisibility": 3,
+          "children": [
+            {
+              "identifier": "block_inputs_model:76835-c0cf5540-8238-4429-9f89-c05840411206",
+              "modelName": "block_inputs_model"
+            },
+            {
+              "identifier": "block_outputs_model:76837-c0cf5540-8238-4429-9f89-c05840411206",
+              "modelName": "block_outputs_model"
+            },
+            {
+              "description": "",
+              "displayName": "Block",
+              "identifier": "block_metadata_model:76839-c0cf5540-8238-4429-9f89-c05840411206",
+              "modelName": "block_metadata_model"
+            }
+          ],
+          "hidden": false,
+          "identifier": "block_root_object_model:76833-c0cf5540-8238-4429-9f89-c05840411206",
+          "modelName": "block_root_object_model",
+          "name": "Block Root",
           "outputVisibility": 3,
           "tags": [],
           "transform": {
@@ -214,7 +224,7 @@
         }
       ],
       "hidden": false,
-      "identifier": "scene:76536-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "scene:76765-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "scene",
       "outputVisibility": 3,
       "tags": [],
@@ -236,121 +246,78 @@
           "color": 4287394506,
           "generationIndex": 0,
           "hidden": false,
-          "identifier": "layer:76606-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+          "identifier": "layer:76841-c0cf5540-8238-4429-9f89-c05840411206",
           "modelName": "layer",
           "name": "layer0"
         }
       ],
-      "identifier": "layers:76538-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "layers:76767-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "layers"
     },
     {
-      "identifier": "animations_model:76540-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "animations_model:76769-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "animations_model"
     },
     {
-      "identifier": "asset_collections_model:76542-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "asset_collections_model:76771-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "asset_collections_model"
     },
     {
-      "identifier": "neural_networks_model:76544-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "neural_networks_model:76773-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "neural_networks_model"
     },
     {
-      "identifier": "components_model:76546-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "components_model:76775-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "components_model"
     },
     {
-      "children": [
-        {
-          "children": [
-            {
-              "children": [
-                {
-                  "identifier": "patches_model:76616-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
-                  "modelName": "patches_model"
-                },
-                {
-                  "identifier": "connections_model:76618-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
-                  "modelName": "connections_model"
-                },
-                {
-                  "identifier": "patch_input_ports_model:76620-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
-                  "modelName": "patch_input_ports_model"
-                },
-                {
-                  "identifier": "patch_output_ports_model:76622-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
-                  "modelName": "patch_output_ports_model"
-                },
-                {
-                  "hidden": false,
-                  "identifier": "patch_metadata_model:76624-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
-                  "internalGroup": false,
-                  "modelName": "patch_metadata_model",
-                  "position": [
-                    0,
-                    0
-                  ],
-                  "preferredGenericType": 0
-                }
-              ],
-              "identifier": "patch_model:76614-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
-              "modelName": "patch_model",
-              "name": "kRootPatchName"
-            }
-          ],
-          "identifier": "patch_graph_model:76608-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
-          "modelName": "patch_graph_model",
-          "valuesMap": {}
-        }
-      ],
-      "identifier": "patch_graphs_model:76548-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "patch_graphs_model:76777-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "patch_graphs_model"
     },
     {
       "excludeDuringExport": false,
       "excludeFromPackage": false,
-      "identifier": "patch_editor_data_model:76550-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "patch_editor_data_model:76779-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "patch_editor_data_model"
     },
     {
-      "identifier": "patch_assets_model:76552-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "patch_assets_model:76781-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "patch_assets_model"
     },
     {
-      "identifier": "render_passes_model:76554-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "render_passes_model:76783-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "render_passes_model"
     },
     {
-      "identifier": "shaders:76556-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "shaders:76785-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "shaders"
     },
     {
       "children": [
         {
-          "identifier": "script_bridging_variables_model:76560-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+          "identifier": "script_bridging_variables_model:76789-c0cf5540-8238-4429-9f89-c05840411206",
           "modelName": "script_bridging_variables_model"
         }
       ],
-      "identifier": "scripts_model:76558-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "scripts_model:76787-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "scripts_model"
     },
     {
-      "identifier": "text_files_model:76562-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "text_files_model:76791-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "text_files_model"
     },
     {
-      "identifier": "node_packages_model:76564-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "node_packages_model:76793-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "node_packages_model"
     },
     {
       "excludeDuringExport": false,
       "excludeFromPackage": false,
-      "identifier": "bundled_packages_model:76566-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "bundled_packages_model:76795-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "bundled_packages_model"
     },
     {
-      "identifier": "internal_sounds_model:76568-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "internal_sounds_model:76797-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "internal_sounds_model"
     },
     {
@@ -366,7 +333,7 @@
       "globalCompressionDefaultOn": true,
       "globalSmartQuality": 75,
       "globalSmartTextureTargetSizeLimit": 0,
-      "identifier": "exportConfig:76570-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "exportConfig:76799-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "exportConfig",
       "pvrCompressionAccuracy": 2,
       "pvrCompressionFormat": 0,
@@ -377,7 +344,6 @@
       "useSmartCompressionGlobally": true
     },
     {
-      "additionalEnabledChanges": [],
       "assistantAppIDs": [
         "2320137961422959"
       ],
@@ -412,7 +378,7 @@
       "effectUsesAudioTimestamps": false,
       "effectUsesAutomaticAlphaSort": false,
       "effectUsesAutomaticInstructions": true,
-      "effectUsesBlocks": true,
+      "effectUsesBlocks": false,
       "effectUsesBlocksDownloadable": false,
       "effectUsesBlocksScripting": false,
       "effectUsesBodyTracking": false,
@@ -625,7 +591,7 @@
       "hairSegmentationMinVersion": 1,
       "handTrackerMaxHands": 2,
       "handTrackerMinVersion": 3,
-      "identifier": "manifest:76572-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "manifest:76801-c0cf5540-8238-4429-9f89-c05840411206",
       "instructionFindAnImageBackCameraEnabled": true,
       "instructionFindAnImageFrontCameraEnabled": true,
       "instructionFindBodyBackCameraEnabled": true,
@@ -672,82 +638,59 @@
       "worldTrackerUsesFaceTracker": false
     },
     {
-      "identifier": "asset_attributions_model:76574-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "asset_attributions_model:76803-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "asset_attributions_model"
     },
     {
-      "identifier": "licenses_model:76576-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "licenses_model:76805-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "licenses_model"
     },
     {
-      "identifier": "playback_controllers_model:76578-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "playback_controllers_model:76807-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "playback_controllers_model"
     },
     {
-      "children": [
-        {
-          "assetLocator": "blocks/block0/block0.arblock",
-          "downloadable": false,
-          "excludeDuringExport": true,
-          "excludeFromPackage": false,
-          "identifier": "block_model:76647-9a043d6e-a271-446f-af55-dffc745a4a7f",
-          "isExternalAsset": true,
-          "modelName": "block_model",
-          "name": "block0"
-        },
-        {
-          "assetLocator": "blocks/block1/block1.arblock",
-          "downloadable": false,
-          "excludeDuringExport": true,
-          "excludeFromPackage": false,
-          "identifier": "block_model:76747-c0cf5540-8238-4429-9f89-c05840411206",
-          "isExternalAsset": true,
-          "modelName": "block_model",
-          "name": "block1"
-        }
-      ],
-      "identifier": "block_documents_model:76580-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "block_documents_model:76809-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "block_documents_model"
     },
     {
-      "identifier": "target:76582-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "target:76811-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "target",
-      "targetPlatforms": [],
+      "targetPlatforms": [
+        "facebook",
+        "instagram"
+      ],
       "targetUseCases": []
     },
     {
-      "identifier": "block_instances_model:76584-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "block_instances_model:76813-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "block_instances_model"
     },
     {
-      "identifier": "vectorImages:76586-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "vectorImages:76815-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "vectorImages"
     },
     {
-      "identifier": "sounds:76588-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "sounds:76817-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "sounds"
     },
     {
-      "identifier": "color_luts_data_model:76590-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "color_luts_data_model:76819-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "color_luts_data_model"
     },
     {
-      "forceStrictModeCompilation": true,
-      "identifier": "scripting_config_model:76592-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "forceStrictModeCompilation": false,
+      "identifier": "scripting_config_model:76821-c0cf5540-8238-4429-9f89-c05840411206",
       "isStrictModeChangeable": false,
       "modelName": "scripting_config_model"
     },
     {
-      "identifier": "assistant_model:76594-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "assistant_model:76823-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "assistant_model"
     },
     {
-      "identifier": "form_factor_settings_model:76596-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
+      "identifier": "form_factor_settings_model:76825-c0cf5540-8238-4429-9f89-c05840411206",
       "modelName": "form_factor_settings_model"
-    },
-    {
-      "identifier": "landmark_assets_model:76629-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
-      "modelName": "landmark_assets_model"
     }
   ],
   "creatorFileVersion": {
@@ -757,22 +700,14 @@
   },
   "creatorIdentifier": "com.facebook.arstudio.skylight",
   "creatorPlatform": "macosx",
-  "id": "76520a62b31f2ebb7446d9f321f69a4fb7bd1",
-  "identifier": "document:76522-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
-  "isBlockDocument": false,
+  "id": "76749c0cf5540823844299f89c05840411206",
+  "identifier": "document:76751-c0cf5540-8238-4429-9f89-c05840411206",
+  "isBlockDocument": true,
   "measurementUnit": 0,
   "modelName": "document",
   "name": "Effect",
-  "objects": [
-    {
-      "categoriesOrder": [
-        9
-      ],
-      "identifier": "assets_config_model:76645-a62b31f2-ebb7-446d-9f32-1f69a4fb7bd1",
-      "modelName": "assets_config_model"
-    }
-  ],
-  "revision": "76521a62b31f2ebb7446d9f321f69a4fb7bd1",
+  "objects": [],
+  "revision": "76750c0cf5540823844299f89c05840411206",
   "version": {
     "dev": 0,
     "patch": 0,
